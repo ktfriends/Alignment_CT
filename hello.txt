@@ -8,3 +8,7 @@ Thanks for your interest in my code and theory.
 If you have any questions, please feel free to contact me.
 
 Email: ktfriends@gmail.com
+
+Published Papers
+Rigid Specimen: https://www.nature.com/articles/srep41218
+Elastic Specimen: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198259
