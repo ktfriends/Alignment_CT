@@ -1,7 +1,7 @@
 Hello friends,
 
 I would like to introduce MATLAB test codes related to alignment theories.
-These codes show how the Virtual Alignment Method works using a 2D Shepp?Logan phantom.
+These codes show how the Virtual Alignment Method works using a 2D Shepp-Logan phantom.
 If you change only fp_r and fp_phi in the code, the position of the CT image will change in the reconstruction.
 
 Thanks for your interest in my code and theory.
